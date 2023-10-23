@@ -10,7 +10,7 @@ To hack the game, first go the the error message page where your dinosaur is han
 
 Go ahead and press the space bar to start the  game. Once the game starts, right-click and select ``Inspect” to open up Chrome DevTools``, then select the ``Console`` tab. 
 
-You can also do this by using the Ctrl+Shift+I shortcut, which takes you straight to the  Console tab of DevTools.
+You can also do this by using the Ctrl+Shift+I/Cmd+Shift+I shortcut, which takes you straight to the  Console tab of DevTools.
 
 
 
