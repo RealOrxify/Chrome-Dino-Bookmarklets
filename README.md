@@ -1,6 +1,6 @@
 # Chrome-Dino-Hacks
-this is alot of chrome dino bookmarklets and these are cool and they do stuff lol
-# This Code is deeply obfuscated
+These are Chrome Dino Hacks, this code is deeply obfuscated so people don't redestribute the code
+# This code is deeply obfuscated
 
 
 
